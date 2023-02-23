@@ -1,0 +1,21 @@
+body{
+    background-image: url(img/fundo001.png);
+    background-repeat: no-repeat;
+}
+.content {
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .mainTitle {
+    text-align: center;
+    color: darkgreen;
+  }
+
+  .text {
+    color: white;
+    background-color: darkcyan;
+    padding: 2px;
+  }
+
