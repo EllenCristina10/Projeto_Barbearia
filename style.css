@@ -1,7 +1,4 @@
-body{
-    background-image: url(img/fundo001.png);
-    background-repeat: no-repeat;
-}
+
 .content {
     width: 100%;
     max-width: 700px;
@@ -10,12 +7,15 @@ body{
 
   .mainTitle {
     text-align: center;
-    color: darkgreen;
+    color: black;
   }
 
   .text {
-    color: white;
-    background-color: darkcyan;
+    color: rgb(10, 0, 0);
+    background-color: rgb(119, 123, 123);
     padding: 2px;
   }
 
+  p{
+    text-align: center;
+  }
