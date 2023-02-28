@@ -1,19 +1,38 @@
-
 .content {
     width: 100%;
     max-width: 700px;
     margin: 0 auto;
   }
 
-  .mainTitle {
+  #mainTitle {
     text-align: center;
     color: black;
+   
+    width: 200px;
+    margin-left: 250px;
+  }
+  
+  #text {
+    color: rgb(10, 0, 0);
+    margin-left: 10px;
   }
 
-  .text {
-    color: rgb(10, 0, 0);
-    background-color: rgb(119, 123, 123);
-    padding: 2px;
+  .fundo{
+    position: relative;
+    margin-top: 0px;
+  }
+
+  #image{
+    top: 5px;
+    left: 100px;
+  }
+
+  #texto{
+    position: absolute;
+    font-size: 25px;
+    left: 220px;
+    top: 200px;
+    color: white;
   }
 
   p{
