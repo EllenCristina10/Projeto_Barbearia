@@ -3,16 +3,20 @@
     max-width: 700px;
     margin: 0 auto;
   }
-
+body{
+  background-color: #969696;
+}
   #mainTitle {
     text-align: center;
+    left: 20px;
+    font-size: 40px;
     color: black;
-   
     width: 200px;
     margin-left: 250px;
   }
   
   #text {
+    font-size: 20px;
     color: rgb(10, 0, 0);
     margin-left: 10px;
   }
@@ -30,11 +34,11 @@
   #texto{
     position: absolute;
     font-size: 25px;
-    left: 220px;
+    left: 20px;
     top: 200px;
     color: white;
   }
 
-  p{
+  #center{
     text-align: center;
   }
